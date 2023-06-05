@@ -10,7 +10,7 @@ For our purposes, a `Restaurant` has many `Reviews`, a `Customer` has many `Revi
 
 **Note**: You should draw your domain on paper or on a whiteboard _before you start coding_. Remember to identify a single source of truth for your data.
 
-## Topics
+## Topics`
 
 - Classes and Instances
 - Class and Instance Methods
